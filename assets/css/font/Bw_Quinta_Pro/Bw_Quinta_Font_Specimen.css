@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'BwQuintaPro-Black';
+    src: url("BwQuintaPro-Black.eot");
+    src: url("BwQuintaPro-Black.eot") format("embedded-opentype"), url("BwQuintaPro-Black.woff2") format("woff2"), url("BwQuintaPro-Black.woff") format("woff"), url("BwQuintaPro-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-BlackItalic';
+    src: url("BwQuintaPro-BlackItalic.eot");
+    src: url("BwQuintaPro-BlackItalic.eot") format("embedded-opentype"), url("BwQuintaPro-BlackItalic.woff2") format("woff2"), url("BwQuintaPro-BlackItalic.woff") format("woff"), url("BwQuintaPro-BlackItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-Bold';
+    src: url("BwQuintaPro-Bold.eot");
+    src: url("BwQuintaPro-Bold.eot") format("embedded-opentype"), url("BwQuintaPro-Bold.woff2") format("woff2"), url("BwQuintaPro-Bold.woff") format("woff"), url("BwQuintaPro-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-BoldItalic';
+    src: url("BwQuintaPro-BoldItalic.eot");
+    src: url("BwQuintaPro-BoldItalic.eot") format("embedded-opentype"), url("BwQuintaPro-BoldItalic.woff2") format("woff2"), url("BwQuintaPro-BoldItalic.woff") format("woff"), url("BwQuintaPro-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-Light';
+    src: url("BwQuintaPro-Light.eot");
+    src: url("BwQuintaPro-Light.eot") format("embedded-opentype"), url("BwQuintaPro-Light.woff2") format("woff2"), url("BwQuintaPro-Light.woff") format("woff"), url("BwQuintaPro-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-LightItalic';
+    src: url("BwQuintaPro-LightItalic.eot");
+    src: url("BwQuintaPro-LightItalic.eot") format("embedded-opentype"), url("BwQuintaPro-LightItalic.woff2") format("woff2"), url("BwQuintaPro-LightItalic.woff") format("woff"), url("BwQuintaPro-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-Medium';
+    src: url("BwQuintaPro-Medium.eot");
+    src: url("BwQuintaPro-Medium.eot") format("embedded-opentype"), url("BwQuintaPro-Medium.woff2") format("woff2"), url("BwQuintaPro-Medium.woff") format("woff"), url("BwQuintaPro-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-MediumItalic';
+    src: url("BwQuintaPro-MediumItalic.eot");
+    src: url("BwQuintaPro-MediumItalic.eot") format("embedded-opentype"), url("BwQuintaPro-MediumItalic.woff2") format("woff2"), url("BwQuintaPro-MediumItalic.woff") format("woff"), url("BwQuintaPro-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-Regular';
+    src: url("BwQuintaPro-Regular.eot");
+    src: url("BwQuintaPro-Regular.eot") format("embedded-opentype"), url("BwQuintaPro-Regular.woff2") format("woff2"), url("BwQuintaPro-Regular.woff") format("woff"), url("BwQuintaPro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BwQuintaPro-RegularItalic';
+    src: url("BwQuintaPro-RegularItalic.eot");
+    src: url("BwQuintaPro-RegularItalic.eot") format("embedded-opentype"), url("BwQuintaPro-RegularItalic.woff2") format("woff2"), url("BwQuintaPro-RegularItalic.woff") format("woff"), url("BwQuintaPro-RegularItalic.ttf") format("truetype");
+}

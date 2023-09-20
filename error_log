@@ -1,0 +1,18 @@
+[17-May-2021 21:06:45 America/Chicago] PHP Warning:  include(../lib/customer.php): failed to open stream: No such file or directory in /home/losemecom/dev.loseme.com.mx/api.php on line 12
+[17-May-2021 21:06:45 America/Chicago] PHP Warning:  include(): Failed opening '../lib/customer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/losemecom/dev.loseme.com.mx/api.php on line 12
+[17-May-2021 21:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'customer' not found in /home/losemecom/dev.loseme.com.mx/api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/losemecom/dev.loseme.com.mx/api.php on line 15
+[17-May-2021 21:09:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/losemecom/dev.loseme.com.mx/api.php on line 20
+[17-May-2021 21:11:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'firstName' (T_STRING) in /home/losemecom/dev.loseme.com.mx/api.php on line 22
+[17-May-2021 21:23:35 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home/losemecom/dev.loseme.com.mx/api.php on line 19
+[17-May-2021 21:23:43 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home/losemecom/dev.loseme.com.mx/api.php on line 19
+[17-May-2021 21:30:04 America/Chicago] PHP Notice:  Array to string conversion in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:31:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' or ',' in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:31:37 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:31:48 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:31:54 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:33:00 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:34:23 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 18
+[17-May-2021 21:38:19 America/Chicago] PHP Notice:  Trying to get property 'firstName' of non-object in /home/losemecom/dev.loseme.com.mx/api.php on line 21
